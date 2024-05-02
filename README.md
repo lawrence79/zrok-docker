@@ -1,5 +1,7 @@
 ## Prerequisites
 
+Sign up for a free zrok account at https://zrok.io/
+
 Install zrok using homebrew 
 
 ```
