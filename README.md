@@ -1,3 +1,11 @@
+## Prerequisites
+
+Install zrok using homebrew 
+
+```
+brew install zrok
+```
+
 ## How it Works
 
 The Docker Compose project uses your zrok account token to reserve a public subdomain and keep sharing the backend
